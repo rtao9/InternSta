@@ -14,10 +14,8 @@
         ]
       },
       "properties": {
-        "id": "1",
         "name": "Katong",
-        "latitude": 1.305826,
-        "longitude": 103.8958192
+        "orders": 241
       }
     }
   ]
