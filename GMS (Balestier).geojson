@@ -14,10 +14,8 @@
         ]
       },
       "properties": {
-        "id": "1",
         "name": "Balestier Road'",
-        "latitude": 1.323459,
-        "longitude": 103.8434742
+        "orders": 447
       }
     }
   ]
