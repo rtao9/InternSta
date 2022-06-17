@@ -14,10 +14,8 @@
         ]
       },
       "properties": {
-        "id": "1",
         "name": "118 Killiney GMS",
-        "latitude": 1.2979559,
-        "longitude": 103.8297892
+        "orders": 447
       }
     }
   ]
