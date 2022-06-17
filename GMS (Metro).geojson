@@ -16,8 +16,7 @@
       "properties": {
         "id": "1",
         "name": "Metropolis",
-        "latitude": 1.3066305,
-        "longitude": 103.7823056
+        "orders": 102
       }
     }
   ]
