@@ -14,10 +14,8 @@
           ]
         },
         "properties": {
-          "id": "1",
-          "name": "Fat Mario - Robertson Quayside",
-          "latitude": 1.2900859,
-          "longitude": 103.8304132
+            "name": "Fat Mario - Robertson Quayside",
+            "orders": "629"
         }
       },
       {
@@ -33,10 +31,8 @@
           ]
         },
         "properties": {
-          "id": "2",
-          "name": "Fat Mario - Holland Village",
-          "latitude": 1.3116989,
-          "longitude": 103.7867722
+            "name": "Fat Mario - Holland Village",
+            "orders": "338",
         }
       }
     ]
