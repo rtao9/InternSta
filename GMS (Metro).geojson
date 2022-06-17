@@ -14,9 +14,8 @@
         ]
       },
       "properties": {
-        "id": "1",
-        "name": "Metropolis",
-        "orders": 102
+        "Name": "Metropolis",
+        "Orders": 102
       }
     }
   ]
