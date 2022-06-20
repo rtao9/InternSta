@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+              [
+                [103.703384,1.339867],[103.802261,1.374532],[103.862686,1.312751],[103.802261,1.273966],[103.790932,1.276025],[103.703556,1.339008]
+              ]
+          ]
+        ]
+      },
+      "properties": {
+        "Name": " Holland Village - Alt Pizza",
+        "Orders": 294
+      }
+    }
+  ]
+}
