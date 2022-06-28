@@ -6,7 +6,8 @@
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
-          [ [
+          [
+              [
                     [
                         103.86136198864553,
                         1.3234337309511852
@@ -267,8 +268,9 @@
                         103.86136198864553,
                         1.3234337309511852
                     ]
-                  ]
+             ]
           ]
+        ]
       },
             "properties": {
                 "Name": " Balestier" ,
@@ -276,7 +278,7 @@
                 "ABC Orders": 81 , 
                 "ALT Orders": 164 , 
                 "Total Orders": 588
-      }
+         }
     }
   ]
 }
