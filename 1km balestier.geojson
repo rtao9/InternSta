@@ -1,8 +1,12 @@
 {
-    "features": [
-        {
-            "geometry": {
-                "coordinates": [
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
                     [
                         103.86136198864553,
                         1.3234337309511852
@@ -263,18 +267,17 @@
                         103.86136198864553,
                         1.3234337309511852
                     ]
-                ],
-                "type": "Polygon"
-            },
+                  ]
+          ]
+        ]
+      },
             "properties": {
                 "Name": " Balestier" ,
                 "GMS Orders": 343 ,
                 "ABC Orders": 81 , 
                 "ALT Orders": 164 , 
                 "Total Orders": 588
-            },
-            "type": "Feature"
-        }
-    ],
-    "type": "FeatureCollection"
+      }
+    }
+  ]
 }
