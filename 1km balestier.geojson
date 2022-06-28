@@ -6,7 +6,7 @@
       "geometry": {
         "type": "MultiPolygon",
         "coordinates": [
-          [
+          [ [
                     [
                         103.86136198864553,
                         1.3234337309511852
@@ -269,7 +269,6 @@
                     ]
                   ]
           ]
-        ]
       },
             "properties": {
                 "Name": " Balestier" ,
