@@ -267,6 +267,11 @@
                 "type": "Polygon"
             },
             "properties": {
+                "Name": " Balestier" ,
+                "GMS Orders": 343
+                "ABC Orders": 81
+                "ALT Orders": 164
+                "Total Orders": 588
             },
             "type": "Feature"
         }
