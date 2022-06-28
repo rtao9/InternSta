@@ -264,7 +264,7 @@
                         1.3234337309511852
                     ]
                 ],
-                "type": "LineString"
+                "type": "Polygon"
             },
             "properties": {
             },
